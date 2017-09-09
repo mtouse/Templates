@@ -1,0 +1,42 @@
+Additional anaconda packages:
+
+basemap
+datashader
+git
+graphviz
+holoviews
+keras
+plotly
+progressbar2
+pymc
+pymongo
+qgrid
+spacy
+tensorflow
+theano
+
+
+
+Conda-forge
+# conda config --add channels conda-forge
+# conda install ____
+
+caffe
+geopy
+parsedatetime
+pykalman
+pyspark
+pytimeparse
+records
+
+
+
+Non-conda:
+
+treeinterpreter
+
+
+
+Non-FOSS:
+
+Sublime Text
